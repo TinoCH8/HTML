@@ -26,6 +26,7 @@ header{
     border-bottom: 1px solid #c1c1c1;
     width: 100%;
     background-color: whitesmoke;
+    top: 0%;
 }
 header > #logo{
 
@@ -179,4 +180,7 @@ footer{
     height: 70px;
     background-color: chocolate;
     color: whitesmoke;
+}
+#menu{
+    display: none;
 }
