@@ -1,0 +1,81 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+#cajita1{
+    
+    height: 60px;
+    background-color: orangered;
+    
+
+}
+.cajasTitulo{
+    float: left;
+    margin-left: 1%;
+    margin-top: 10px;
+    width: 5%;
+    padding: 10px;
+    height: 20px;
+    background-color: yellow;
+}
+.cajasTitulo2{
+    float: right;
+    margin-right: 1%;
+    margin-top: 10px;
+    width: 5%;
+    padding: 10px;
+    height: 20px;
+    background-color: yellow;
+}
+
+#cajita2{
+    height:220px ;
+    background-color: beige;
+    
+}
+#cajita3{
+    height:200px ;
+    background-color: pink;
+    
+}
+.cajas3{
+    background-color: purple;
+    width: 150px;
+    height: 150px;
+    
+    float: left;
+    margin-left: 14%;
+    margin-top: 20px;
+    
+
+}
+#cajita4{
+    height:200px ;
+    background-color: blue;
+}
+.cajas4{
+    background-color: purple;
+    width: 48%;
+    height: 150px;
+    
+    float: left;
+    margin-left: 1%;
+    margin-top: 20px;
+    
+
+}
+#cajita5{
+    height:300px ;
+    background-color: brown;
+}
+.cajas5{
+    background-color: purple;
+    width: 48%;
+    height: 260px;
+    
+    float: left;
+    margin-left: 25%;
+    margin-top: 20px;
+    
+
+}
