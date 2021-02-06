@@ -1,0 +1,74 @@
+@media screen and (min-width: 300px){
+    aside{
+
+        display: block;
+        width: 500;
+        height: 200px;
+        background-color: rgb(97, 97, 206);
+        float: left;
+    
+    }
+    aside > #col{
+
+        margin-top: 10px;
+        width: 220px;
+        
+    
+    }
+    #wel,#ab,#in,#ne,#co{
+
+        margin-top: 10px;
+        margin-right: 80px;
+    
+    }
+    section#main{
+        min-height: 500px;
+        margin-top: 50px;
+        width: 80%;
+        float: left;
+    }
+    #main .colu{
+        float: left;
+        width: 25%;
+        height: 200px;
+        margin-left: 40%;
+        margin-bottom: 200%;
+    }
+}
+
+@media screen and (min-width: 992px){
+    aside{
+
+        display: block;
+        width: 220px;
+        height: 937px;
+        background-color: rgb(97, 97, 206);
+        float: left;
+    
+    }
+    aside > #col{
+
+        margin-top: 200px;
+        width: 220px;
+        
+    
+    }
+    #wel,#ab,#in,#ne,#co{
+
+        margin-top: 50px;
+        margin-right: 80px;
+    
+    }
+    section#main{
+        min-height: 500px;
+        margin-top: 125px;
+        width: 80%;
+        float: left;
+    }
+    #main .colu{
+        float: left;
+        width: 25%;
+        height: 200px;
+        margin-left: 8%;
+    }
+}
